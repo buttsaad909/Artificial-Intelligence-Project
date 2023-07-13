@@ -1,0 +1,2 @@
+model_checkpoint_path: "q-learning.tf"
+all_model_checkpoint_paths: "q-learning.tf"
